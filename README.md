@@ -1,4 +1,4 @@
-# screen_capture
+# Screen Capture
 Capture screen images in linux-based environments
 
 We can use ```ffmpeg``` to capture screenshots and save them to disk. The following commands captures screenshots every one second and save them on disk with a names having the timestamp of the captured image.
